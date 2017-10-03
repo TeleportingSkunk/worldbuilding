@@ -1,0 +1,12 @@
+Professions:
+Receive two Prof Points upon character creation, afterwards receive +1 in a profession chosen as one's primary every odd character level. Unwanted points in weapon skills may be used to level up professions. For example, you make a mage, and 
+**Lore (how 'well read' the character is, recommended for everyone to take as secondary, but esp. as primary for mages. Once every week a roll is done upon rest, success results in learning something useful for character e.g. glyph or even a portion of a spell for a mage) 
+**Languages (useful in New World) 
+**Gunsmith (highly recommended for firearm specialists, e.g. can make own bullets from bars) 
+**Medicine/Alchemy (highly recommended to have one in a party) 
+**Hunting (player can choose to use Hunting while the party rests for a chance of finding materials and fresh meat to buff the party until next rest) 
+
+*maybe make hunting a class passive for the falconer cause it's not as beneficial as other profs 
+*after prof lvl 5? a Dream roll is done regardless of lore level, but levels in lore and extra levels in prof give better chances
+*I can see why Languages are such a bother in fictional settings. I'm very tempted to just have everyone speak the same language, despite it being silly. How about incorporating Languages into Lore?
+*Great idea: give professions skill trees. This will make several things easier: a)merging Lang into Lore b)dreams and unique events/knowledge will serve as hidden branches on the tree c)give falconer a mandatory unique Prof that involves both hunting and utilising his bird

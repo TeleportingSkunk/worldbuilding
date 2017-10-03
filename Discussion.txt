@@ -1,0 +1,16 @@
+NS: I think we should decide on which DnD Edition to base on, and then expand and alter it as needed, instead of building up from complete scratch. 
+	There's a large historical difference in the settings. DnD takes inspiration from the late Middle Ages, with Faerun as Europe and Kara-Tur as Asia. Doppelstern's focus on the Age of Exploration is more comparable to late-Renaissance/early-Englightenment Europe as the Southern Archipelago (which may add a steampunk quality to it) and the more or less organised pre-colonial populations of America, Africa and Southeast Asia, as well as the great civilizations of antiquity (Ancient Egypt, Mesopotamia, Rome, China, etc) on the northern continent. This makes a few notable differences in gameplay.
+	a. weaponry
+	b. means of travel
+	c. the general idea behind a given campaign
+	d, e, f?
+
+a.Weaponry
+	Firearms
+As we know, by the late renaissance, firearms had become the main weapon in war, mainly smoothbore(no rifling on the inside of the barrel) muzzle-loading (loading the bullet and poweder via muzzle) flintlock(propellant being ignited by a mechanism that uses flint) muskets. Breech loading has existed in the real world since the 16th century, but only became popular in the 18th, possibly due to smoothbore muzzleloaders being a lot easier to mass produce. As a consequence, in terms of military tactics, line infantry tactics were a consequence of the inaccuracy and slowness of those firearms. As guns became more precise, napoleonic tactics became obsolete, and after the invention of the cartridge in the 1810s and advances in metallurgy, line infantry became downright retarded. However, a typical fight in a DnD campaign is far removed from a battlefield, is quite short range and as we can also agree: muzzle loading is gay. This is why a typical adventurer would be armed with a more expensive, probably rifled and breech-loading firearm for medium-long range and have other options for short range.
+
+b.Means of Travel
+Ships. Boats. Trade is important for the small nations of the south, as not every island has an abundance of everything, and the southerners are innovative. Horses (or maybe something similar to them?) are used mainly as beasts of burden, as even cavalry is an unpopular idea, although the larger the island, the more necessary horses become. 
+
+c.Ideas for campaigns
+What would drive a group of adventurers?
