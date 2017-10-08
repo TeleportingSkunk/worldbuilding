@@ -1,0 +1,9 @@
+Classes:
+*Mage (advanced class, preferred glyphs highly depend on body type, upon reaching lvl 6 and being master in any melee weapon or advanced in staff, said weapon becomes 'extension of your hand') 
+*Fighters:
+**Soldier (increased carry capacity, begins specialised in firearms and 1H sword) 
+**Falconer (hunter, begins as advanced in firearms. Class-specific primary Prof: Hunting, which focuses on utilising their companion, hunting, and survival in the wilderness) 
+**Privateer (begins specialised in two weapon style and may achieve GM, as well as two free weapon points) 
+**Swordsman (may achieve highest skill in any melee weapon and style, gets two free weapon points) 
+?Thief?
+Anything else? 
