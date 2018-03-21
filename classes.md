@@ -1,4 +1,4 @@
-#Classes:
+# Classes:
 
 * **Mage**: Advanced class. Preferred glyphs highly depend on *body type*. Upon reaching lvl. 6 and mastering any melee weapon or staff, said weapon becomes *an extension of your hand*
 
@@ -8,4 +8,4 @@
    * Privateer: Base specialisation in dual weapons, and may achieve ***GM***, as well as two free weapon points.
    * ??THIEF??
 
-###Anything Else?
+### Anything Else?
